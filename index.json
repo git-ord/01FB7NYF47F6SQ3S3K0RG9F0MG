@@ -4,9 +4,7 @@
     "id": null,
     "url": null
   },
-  "customer": {
-    "email": "nettie.kevan.davis@gmail.com"
-  },
+  "customer": null,
   "id": "01FB7NYF47F6SQ3S3K0RG9F0MG",
   "url": "https://github.com/git-ord/01FB7NYF47F6SQ3S3K0RG9F0MG.git",
   "status": "open",
@@ -25,9 +23,16 @@
   "discounts": [],
   "taxes": [],
   "shipping": {
-    "address": null,
-    "method": null,
-    "cost": null
+    "address": {
+      "firstName": "Kevan",
+      "lastName": "Davis",
+      "line1": "2817 Kirin Rd",
+      "line2": "",
+      "city": "Carrollton",
+      "postalCode": "75007",
+      "country": "United States",
+      "phone": ""
+    }
   },
   "billing_address": null
 }
